@@ -3,6 +3,9 @@ body {
 }
 
 #billboard {
+  background-image: url('../images/home-background.png');
+  background-position: center;
+  background-size: cover;
   height: 100vh;
   width: 100vw;
   position: relative;
